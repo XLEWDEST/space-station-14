@@ -603,6 +603,15 @@
         },
         {
             "name": "representative_door"
+        },
+        {
+            "name": "blueshield"
+        },
+        {
+            "name": "blueshield_door"
+        },
+        {
+            "name": "blueshield_open"
         }
     ]
 }

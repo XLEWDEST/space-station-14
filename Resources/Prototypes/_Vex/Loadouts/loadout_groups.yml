@@ -1,0 +1,32 @@
+# Command-BlueShield
+- type: loadoutGroup
+  id: BlueShieldHead
+  name: Синий Щит, голова
+  minLimit: 0
+  loadouts:
+  - BlueShieldBeret
+
+- type: loadoutGroup
+  id: BlueShieldJumpsuit
+  name: Синий Щит, комбинезон
+  loadouts:
+  - BlueShieldJumpsuit
+
+- type: loadoutGroup
+  id: BlueShieldNeck
+  name: Синий Щит, шея
+  minLimit: 0
+  loadouts:
+  - BlueShieldCloak
+
+- type: loadoutGroup
+  id: BlueShieldBackpack
+  name: Синий Щит, рюкзак
+  loadouts:
+  - BlueShieldBackpack
+
+- type: loadoutGroup
+  id:  BlueShieldOuterClothing
+  name: Синий Щит, верхняя одежда
+  loadouts:
+  - BlueShieldOuterClothing

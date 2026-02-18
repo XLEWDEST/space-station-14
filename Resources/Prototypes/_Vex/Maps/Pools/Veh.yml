@@ -1,0 +1,11 @@
+- type: gameMapPool
+  id: VehMapPool
+  maps:
+  # Highpop 55+
+  - VehTushkan
+
+  # Midpop 25–55
+  - VehTushkan
+
+  # Lowpop 0–25
+  - VehTushkan

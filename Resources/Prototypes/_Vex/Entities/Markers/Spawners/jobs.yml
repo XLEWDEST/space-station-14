@@ -1,0 +1,13 @@
+# Command
+
+- type: entity
+  id: SpawnPointBlueShield
+  parent: SpawnPointJobBase
+  name: офицер "синий щит"
+  components:
+  - type: SpawnPoint
+    job_id: BlueShieldOfficer
+  - type: Sprite
+    layers:
+      - state: green
+      - state: blueshield

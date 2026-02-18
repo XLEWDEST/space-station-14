@@ -1,0 +1,43 @@
+# For mantles
+- type: loadoutEffectGroup
+  id: MasterBlueShield
+  effects:
+  - !type:JobRequirementLoadoutEffect
+    requirement:
+      !type:RoleTimeRequirement
+      role: JobBlueShieldOfficer
+      time: 54000 #15 hrs
+
+# Jumpsuit
+- type: loadout
+  id: BlueShieldJumpsuit
+  equipment:
+    jumpsuit: ClothingUniformJumpsuitBlueShield
+
+# Head
+- type: loadout
+  id: BlueShieldBeret
+  equipment:
+    head: ClothingHeadHatBeretBlueShield
+
+# Neck
+- type: loadout
+  id: BlueShieldCloak
+  equipment:
+    neck: ClothingNeckCloakNanotrasen
+  effects:
+  - !type:GroupLoadoutEffect
+    proto: MasterBlueShield
+
+# Back
+- type: loadout
+  id: BlueShieldBackpack
+  equipment:
+    back: ClothingBlueshieldBackpackFilled
+
+# Outer clothing
+- type: loadout
+  id: BlueShieldOuterClothing
+  equipment:
+    outerClothing: ClothingOuterArmorBasicBlueShield
+

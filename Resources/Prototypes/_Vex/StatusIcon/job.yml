@@ -1,0 +1,9 @@
+# BlueShield
+
+- type: jobIcon
+  parent: JobIcon
+  id: JobIconBlueShieldOfficer
+  icon:
+    sprite: /Textures/_Vex/Interface/Misc/job_icons.rsi
+    state: BlueShieldOfficer
+  jobName: job-name-blueshieldofficer

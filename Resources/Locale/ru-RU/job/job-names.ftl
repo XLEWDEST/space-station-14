@@ -23,6 +23,7 @@ job-name-serviceworker = сервисный работник
 job-name-centcomoff = представитель Центком
 job-name-cburn = агент карантинной службы Центком
 job-name-deathsquad = агент Центком
+job-name-blueshieldofficer = офицер "Синий Щит"
 job-name-reporter = репортёр
 job-name-musician = музыкант
 job-name-librarian = библиотекарь
