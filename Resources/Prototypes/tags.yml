@@ -48,6 +48,9 @@
   id: Backpack # ConstructionGraph: ClothingBagPet
 
 - type: Tag
+  id: BlueShieldSabre
+
+- type: Tag
   id: Balloon # Default value in BalloonPopperComponent. Tagged entities will be viscously maimed by corresponding poppers.
 
 - type: Tag
